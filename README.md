@@ -1,3 +1,3 @@
 # assembler
-янычева ¬алери€
-15 вариант
+Yanycheva Valeria
+option 15
